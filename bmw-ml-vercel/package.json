@@ -1,0 +1,12 @@
+{
+  "name": "bmw-ml-project",
+  "version": "1.0.0",
+  "description": "BMW Price Prediction - Machine Learning Project",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Static HTML site - no build needed'"
+  },
+  "keywords": ["machine-learning", "bmw", "price-prediction", "jupyter-notebook"],
+  "author": "Rabindranath Andujar",
+  "license": "MIT"
+}
